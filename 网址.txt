@@ -1,0 +1,7 @@
+MCP网站：https://smithery.ai/servers
+skill：https://skillsmp.com/zh
+PubMed的MCP秘钥：9463137c-243c-4496-bf2e-b1a6646e29fa
+文献整理skill：npx skills add Lloyd-Jahn/openclaw-paper-search
+
+cd ~/Downloads
+chmod +x
