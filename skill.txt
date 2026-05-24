@@ -1,0 +1,2 @@
+研究综述、流程规划：npx skills add ar0cket1/hermes-research-agent
+论文复现：npx skills add thinking-machines-lab/tinker-cookbook
